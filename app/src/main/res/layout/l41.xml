@@ -44,10 +44,10 @@
                 android:id="@+id/clearGrocery"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Clear"
+                android:layout_marginTop="8dp"
                 android:background="#006400"
-                android:textColor="@android:color/white"
-                android:layout_marginTop="8dp" />
+                android:text="Clear"
+                android:textColor="@android:color/white" />
         </LinearLayout>
 
         <!-- Divider -->
